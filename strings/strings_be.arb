@@ -209,8 +209,8 @@
   "loadMoreButton": "Загрузіць яшчэ",
   "showClearButton": "Паказаць кнопку ачысткі",
   "manageActorInList": "Дадаць/выдаліць са спісу",
-  "connectPatreon": "Падключыцца да Patreon",
-  "disconnectPatreon": "Адключыцца ад Patreon",
+  "connectPatreon": "Падтрымаць на Patreon",
+  "disconnectPatreon": "Спыніць падтрымку на Patreon",
   "disconnectPatreonConfirm": "Вы ўпэўнены, што жадаеце адключыць уліковы запіс Patreon? Вы не зможаце карыстацца такімі перавагамі, як планаванне, і вашы дадатковыя ўліковыя запісы будуць выключаныя.",
   "patreonNoTier": "Не маеце падпіскі на Patreon",
   "patreonTierInitial": "Пачатковы",
@@ -271,5 +271,10 @@
   "shortcutsRepost": "Пашырыць гэты допіс",
   "shortcutsGeneral": "Агульныя",
   "shortcutsCloseWindow": "Закрыць акно",
-  "shortcutsThisWindow": "Акно спалучэнняў клавіш"
+  "shortcutsThisWindow": "Акно спалучэнняў клавіш",
+  "settingsAutoplayGIFs": "Аўтаматычнае прайграванне GIF",
+  "searchTenor": "Шукаць на Тэнар",
+  "settingsDisableGIFs": "Адключыць GIF",
+  "sponsors": "Спонсары",
+  "blockingByList": "заблакіраваны па спісе",
 }
